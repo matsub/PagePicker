@@ -1,4 +1,8 @@
 {
+    "extName": {
+        "message": "PickImg",
+        "description": "この拡張の名前"
+    },
     "appDescription": {
         "message": "タブで開いている画像を一括ダウンロードするやつ",
         "description": "この拡張の説明文"
