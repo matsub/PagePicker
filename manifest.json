@@ -1,0 +1,28 @@
+{
+    "manifest_version": 2,
+    "author": "matsub",
+
+    "name": "__MSG_extName__",
+    "description": "__MSG_Description__",
+    "version": "1.0",
+    "default_locale": "en",
+    "icons": { "128": "images/icon128.png" },
+
+    "browser_action": {
+        "default_icon": { "32": "images/icon32.png" },
+        "default_title": "Click to Pick"
+    },
+    "background": {
+        "persistent": false,
+        "scripts": ["PickImg.js"]
+    },
+    "options_ui": {
+        "chrome_style": true,
+        "page": "preferences.html"
+    },
+
+    "permissions": [
+        "background",
+        "tabs"
+    ]
+}

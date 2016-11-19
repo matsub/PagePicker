@@ -1,0 +1,10 @@
+{
+    "extName": {
+        "message": "PickImg",
+        "description": "Name of this extention."
+    },
+    "Description": {
+        "message": "Download images opened in tab with just 1 click.",
+        "description": "Description of this extention."
+    }
+}
