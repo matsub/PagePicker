@@ -3,6 +3,7 @@
     "author": "matsub",
 
     "name": "__MSG_extName__",
+    "short_name": "PickImg",
     "description": "__MSG_appDescription__",
     "version": "1.0",
     "default_locale": "en",
