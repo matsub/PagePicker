@@ -1,6 +1,10 @@
 {
-    "Description": {
-        "message": "タブで開いている画像を1クリックでダウンロード",
+    "appDescription": {
+        "message": "タブで開いている画像を一括ダウンロードするやつ",
         "description": "この拡張の説明文"
+    },
+    "Description": {
+        "message": "ダウンロード対象の拡張子を選択",
+        "description": "とっても説明"
     }
 }

@@ -3,8 +3,12 @@
         "message": "PickImg",
         "description": "Name of this extention."
     },
-    "Description": {
+    "appDescription": {
         "message": "Download images opened in tab with just 1 click.",
+        "description": "Description of this extention."
+    },
+    "Description": {
+        "message": "Select page name of extension this app downloads",
         "description": "Description of this extention."
     }
 }

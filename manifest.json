@@ -3,7 +3,7 @@
     "author": "matsub",
 
     "name": "__MSG_extName__",
-    "description": "__MSG_Description__",
+    "description": "__MSG_appDescription__",
     "version": "1.0",
     "default_locale": "en",
     "icons": { "128": "images/icon128.png" },
@@ -14,7 +14,7 @@
     },
     "background": {
         "persistent": false,
-        "scripts": ["PickImg.js"]
+        "scripts": ["lib/PickImg.js"]
     },
     "options_ui": {
         "chrome_style": true,
@@ -22,7 +22,7 @@
     },
 
     "permissions": [
-        "background",
+        "storage",
         "tabs"
     ]
 }
