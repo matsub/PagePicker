@@ -9,7 +9,7 @@
     "icons": { "128": "images/icon128.png" },
 
     "browser_action": {
-        "default_icon": { "32": "images/icon32.png" },
+        "default_icon": { "32": "images/icon32_active.png" },
         "default_title": "Click to Pick"
     },
     "background": {
@@ -23,6 +23,7 @@
 
     "permissions": [
         "storage",
+        "downloads",
         "tabs"
     ]
 }
