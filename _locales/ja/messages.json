@@ -8,7 +8,7 @@
         "description": "この拡張の説明文"
     },
     "Description": {
-        "message": "ダウンロード対象の拡張子を選択",
+        "message": "ダウンロード対象のファイルを選択",
         "description": "とっても説明"
     }
 }

@@ -8,7 +8,7 @@
         "description": "Description of this extention."
     },
     "Description": {
-        "message": "Select page name of extension this app downloads",
+        "message": "Select target page types.",
         "description": "Description of this extention."
     }
 }
