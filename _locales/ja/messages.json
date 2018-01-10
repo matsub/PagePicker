@@ -1,14 +1,14 @@
 {
     "extName": {
-        "message": "PickImg",
+        "message": "PagePicker",
         "description": "この拡張の名前"
     },
     "appDescription": {
-        "message": "タブで開いている画像を一括ダウンロードするやつ",
+        "message": "タブで開いているページを一括ダウンロードするやつ",
         "description": "この拡張の説明文"
     },
     "Description": {
-        "message": "ダウンロード対象のファイルを選択",
+        "message": "ダウンロード対象のファイルタイプを選択",
         "description": "とっても説明"
     }
 }

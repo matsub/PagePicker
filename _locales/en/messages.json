@@ -1,10 +1,10 @@
 {
     "extName": {
-        "message": "PickImg",
+        "message": "PagePicker",
         "description": "Name of this extention."
     },
     "appDescription": {
-        "message": "Download images opened in tab with just 1 click.",
+        "message": "Download pages with just 1 click.",
         "description": "Description of this extention."
     },
     "Description": {
